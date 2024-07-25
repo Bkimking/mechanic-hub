@@ -1,0 +1,58 @@
+1 = Introduction
+ 1.1 = background of study
+ 1.2 = problem statement
+ 1.3 = aim and objectives
+ 1.4 = scope of study
+ 1.5 = significance of the Study
+ 1.6 = Project Layout
+
+2 = Literature Review
+ 2.1 = Introduction
+ 2.2 = Overview
+ 2.3 = Review of existing
+
+3 = Methodology
+ 3.1 Methodology
+ 3.2 Fact Finding Techniques
+  3.2.1 Interview
+  3.2.2 Investigation
+ 3.3 Information on the Existing System in Operation
+ 3.4 Problems of the Existing System
+ 3.5 Overview of the Proposed System
+  3.5.1 Requirement Specification
+   3.5.1.1 Software Requirements
+   3.5.1.2 Hardware Requirements
+  3.5.2 System Users
+ 3.6 Data flow of the New System
+  3.6.1 Use Case Diagrams
+  3.6.2 Sequence Diagrams
+   3.6.2.1 Sequence diagram for Administrators and employee Login
+ 3.7 Choice of Programming Tools and Program Flowchart
+  3.7.1 Program Flowchart
+
+4 = System Design and Implementation
+ 4.1 = Database Table Structure (Methodology)
+ 4.2 = The Input Design or Results
+ 4.3 = Output Design
+  4.3.1 = System Home page
+  4.3.2 = Administrator Module
+  4.3.3 = Manager Module
+  4.3.4 = Employee Module
+  4.3.5 = Authentication Module
+  4.3.6 = Reports
+ 4.4 = The Presentation of Results/ Screen Shots
+ 4.5 = System Evaluation
+  4.5.1 = System Operation/Usages
+  4.5.2 = System Testing
+  4.5.3 = System Security
+   4.5.3.1 = Client Side Validation
+   4.5.3.2 = Server Side Validation
+
+5 = Conclusions 
+ 5.1 = Summary
+ 5.2 = Limitations of the system
+ 5.3 = Future Work
+ 5.4 = Conclusion
+
+REFERENCES
+APPENDIX

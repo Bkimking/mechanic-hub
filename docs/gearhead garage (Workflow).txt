@@ -1,0 +1,47 @@
+{    Example Workflow:
+-Set up version control: Initialize your project repository on GitHub.
+-Front-end setup: Create a HTML, CSS, JS and integrate Bootstrap for styling.
+-Back-end setup: Choose PHP for the server-side logic and API development.
+-Database setup: Implement Mysql to manage your data.
+-Integrate geolocation services: Use Google Maps API to enable location-based search features.
+-Implement authentication: Use Auth0 to handle user sign-ups and logins.
+-Testing and feedback: Use user testing sessions to gather feedback and make improvements.
+-Deployment: Deploy your application on school panel for approval and app-store , play-store for public access (access as a mobile app).
+
+}
+(creating of mobile application)
+
+{   Methodology to use (Agile) Workflow for "Gearhead Garage"
+
+-Sprint 1:
+Activity 1: Research and gather data on local mechanic shops.
+Develop initial database schema for storing mechanic data.
+Basic front-end design for the search interface.
+
+-Sprint 2:
+Implement search functionality using the gathered data.
+Integrate Google Maps API for location-based searches.
+Conduct user testing with a focus group and gather feedback.
+
+-Sprint 3:
+Refine the user interface based on feedback.
+Add user authentication and profile management.
+Expand the database with more detailed mechanic information.
+
+-Sprint 4:
+Implement user reviews and ratings for mechanics.
+Enhance security features to protect user data.
+Conduct comprehensive testing and prepare for initial deployment.
+}
+
+{    background-images illustration.
+Sure! Imagine a vibrant and bustling auto care hub with various sections:
+- Repair Bay: Mechanics working under cars, tools in hand.
+- Detailing Area: Cars being polished and detailed to a shine.
+- Customer Lounge: Comfortable seating with a coffee bar and automotive magazines.
+- Parts Counter: Shelves stocked with various car parts and accessories.
+
+In the background, you might see a sign with "Gearhead Garage - Your One-Stop Auto Care Hub" 
+prominently displayed, perhaps with a sleek, stylized logo featuring gears or automotive motifs. 
+This image would convey a sense of professionalism, expertise, and comprehensive auto care services.
+}
